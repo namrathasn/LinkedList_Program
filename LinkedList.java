@@ -100,13 +100,7 @@ public class LinkedList {
 		}
 	}
 	
-	/**
-	 * deletAt method of voide type
-	 * here deliting the element at first
-	 * @author rekha
-	 * deleting the value by providing index number of 40
-	 *
-	 */
+	
 	
 	public void deleteAt(int index)
 	{
@@ -129,12 +123,8 @@ public class LinkedList {
 		}
 	}
 	
-	/**
-	 * deletelast is a method 
-	 * @author rekha
-	 * it will delet the last node in a sequence
-	 *
-	 */
+	
+	
 	
 	public void deleteLast() {
 		Node temp = head;
